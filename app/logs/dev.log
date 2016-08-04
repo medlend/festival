@@ -1,0 +1,1 @@
+[2016-08-04 12:10:34] php.DEBUG: unlink(web/bundles/framework): No such file or directory {"type":2,"file":"/home/medlend/Bureau/mean/festival/vendor/symfony/symfony/src/Symfony/Component/Filesystem/Filesystem.php","line":178,"level":28928} []
