@@ -1,3 +1,9 @@
-
 /vendor/
 /composer.phar
+/app/cache/*
+/app/logs/*
+/var/cache/*
+/var/logs/*
+/var/sessions/*
+!app/cache/.gitkeep
+!app/logs/.gitkeep
