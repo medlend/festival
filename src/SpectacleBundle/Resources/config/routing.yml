@@ -1,0 +1,3 @@
+spectacle_homepage:
+    path:     /
+    defaults: { _controller: SpectacleBundle:Default:index }
